@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="menu.svg"
+   viewBox="0 0 225 225"
+   height="225"
+   width="225"
+   id="svg966"
+   version="1.1"
+   inkscape:export-filename="/home/p____a____s/Desktop/icon/icon-google-keep.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata972">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs970" />
+  <sodipodi:namedview
+     inkscape:current-layer="g974"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="112.23774"
+     inkscape:cx="84.816707"
+     inkscape:zoom="1.421979"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     id="namedview968"
+     inkscape:window-height="743"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <g
+     id="g974"
+     inkscape:label="Image"
+     inkscape:groupmode="layer">
+    <g
+       style="fill:#080808;fill-opacity:1;stroke:#ffffff;stroke-width:8.07036;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       transform="matrix(1.0459505,0,0,1.0459505,-4.6976457,-3.5737315)"
+       id="g1692">
+      <path
+         style="fill:#080808;fill-opacity:1;stroke:#ffffff;stroke-width:8.07036;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         d="M 111.07165,4.3150642 C 187.37949,3.1096347 219.9942,30.70959 219.46771,116.78401 219.6126,180.80391 191.887,217.03362 113.99242,216.89183 31.128252,217.1489 4.3985753,182.814 4.9872626,109.17992 4.4511384,30.765215 40.463917,3.5317584 111.07165,4.3150642 Z"
+         id="path978"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <rect
+       y="69.042625"
+       x="61.71978"
+       height="87.793365"
+       width="103.75557"
+       id="rect834"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:22.1288;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <rect
+       y="81.497551"
+       x="48.980686"
+       height="18.916142"
+       width="131.56999"
+       id="rect866"
+       style="fill:#080808;fill-opacity:1;stroke:#ffffff;stroke-width:14.8915;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke" />
+    <rect
+       style="fill:#080808;fill-opacity:1;stroke:#ffffff;stroke-width:14.8915;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
+       id="rect866-7"
+       width="131.56999"
+       height="18.916142"
+       x="49.620811"
+       y="125.30249" />
+  </g>
+</svg>
